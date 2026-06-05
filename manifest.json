@@ -1,0 +1,12 @@
+{
+  "name": "CloudStream Plugins",
+  "author": "junaidmrj2",
+  "description": "CloudStream Plugin Repository",
+  "repositoryUrl": "https://github.com/junaidmrj2/cloudstream-repo",
+  "version": 1,
+  "pluginLists": [
+    {
+      "url": "https://raw.githubusercontent.com/junaidmrj2/cloudstream-repo/main/plugins.json"
+    }
+  ]
+}
