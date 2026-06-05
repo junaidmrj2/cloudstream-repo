@@ -1,0 +1,25 @@
+{
+  "plugins": [
+    {
+      "name": "Movies Provider",
+      "description": "Watch Movies Online",
+      "version": "1.0.0",
+      "author": "junaidmrj2",
+      "url": "https://raw.githubusercontent.com/junaidmrj2/cloudstream-repo/main/plugins/MoviesProvider/plugin.json"
+    },
+    {
+      "name": "TV Series Provider",
+      "description": "Watch TV Series Online",
+      "version": "1.0.0",
+      "author": "junaidmrj2",
+      "url": "https://raw.githubusercontent.com/junaidmrj2/cloudstream-repo/main/plugins/SeriesProvider/plugin.json"
+    },
+    {
+      "name": "Anime Provider",
+      "description": "Watch Anime Online",
+      "version": "1.0.0",
+      "author": "junaidmrj2",
+      "url": "https://raw.githubusercontent.com/junaidmrj2/cloudstream-repo/main/plugins/AnimeProvider/plugin.json"
+    }
+  ]
+}
