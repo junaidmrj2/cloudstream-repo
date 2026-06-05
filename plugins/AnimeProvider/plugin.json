@@ -1,0 +1,11 @@
+{
+  "name": "Anime Provider",
+  "author": "junaidmrj2",
+  "version": "1.0.0",
+  "description": "Watch Anime Online",
+  "iconUrl": "",
+  "repositoryUrl": "https://github.com/junaidmrj2/cloudstream-repo",
+  "requirements": [],
+  "hasSettings": false,
+  "status": "working"
+}
